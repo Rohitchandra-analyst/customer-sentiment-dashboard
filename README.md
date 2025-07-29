@@ -37,6 +37,7 @@ This Tableau dashboard explores customer feedback by analyzing sentiment scores 
 - `Customer_Sentiment_Dashboard_Final.twbx`: Tableau Packaged Workbook
 - `images/dashboard-preview.png`: Dashboard image preview
 - `dashboard_link.txt`: Tableau Public URL (optional)
+- [`Customer_Sentiment_Dashboard_Final.twbx`](https://github.com/Rohitchandra-analyst/customer-sentiment-dashboard/raw/main/Customer_Sentiment_Dashboard_Final.twbx): Tableau Packaged Workbook
 
 ---
 
