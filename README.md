@@ -27,8 +27,8 @@ This Tableau dashboard explores customer feedback by analyzing sentiment scores 
 - Reduced manual analysis with interactive drill-down features
 
 ## 🖼️ Dashboard Screenshot
-![Dashboard Preview](<img width="1507" height="866" alt="Screenshot 2025-07-29 at 2 56 51 PM" src="https://github.com/user-attachments/assets/11035845-5bbe-4c21-86f5-1c1a5f40c5ba" />
-)
+(https://github.com/user-attachments/assets/11035845-5bbe-4c21-86f5-1c1a5f40c5ba)
+
 
 ## 🔗 Tableau Public Link
 [View Live Dashboard](https://public.tableau.com/app/profile/rohit.chandra.patel.manne5076/viz/Customer_Sentiment_Dashboard_Final/BusinessSentimentRatingsDashboard?publish=yes)  
